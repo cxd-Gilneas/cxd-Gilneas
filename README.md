@@ -53,7 +53,7 @@
 
 **·** 微信公众号——ziao德的读书笔记
 
-**·** b站——ziao德
+**·** b站——[ziao德](https://space.bilibili.com/184359860)
 
 <!---
 cxd-Gilneas/cxd-Gilneas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
